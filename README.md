@@ -74,4 +74,4 @@ cd backend
 
 ## 👨‍💻 Author
 
-Bhavya Sree Sai
+Chinasani Bhavya Sree Sai
